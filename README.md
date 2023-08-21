@@ -7,3 +7,5 @@
 <dev>
   <a href="https://www.linkedin.com/in/igu-goncalves/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </dev>
+
+![Snake animation](https://github.com/IgorTecnologic/IgorTecnologic/blob/output/github-contribution-grid-snake.svg) 
